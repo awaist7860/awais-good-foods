@@ -1,0 +1,33 @@
+﻿/*CSS file for the main page*/
+body {
+    background-color: #ff6666; /*Changes background colour*/
+}
+
+h1 {
+    color: red;/*Chnage sthe colour of the text to red*/
+}
+
+#logo {
+    margin-left: 37.5%;/*Makes the margin on the left bigger*/
+}
+
+.btnMenu {
+    font: bold 45px arial, Calibri;/*Chnages the font and font size*/
+    background-color: transparent;/*Makes it transparrent*/
+    color: dodgerblue;/*Changes font colour to dogerblue*/
+    border: none;/*No border*/
+}
+
+.btnOrder {
+    float: right; /*Moves everything to the right*/
+    font: bold 45px arial, Calibri; /*Makes it transparrent*/
+    background-color: transparent; /*Chnages the font and font size*/
+    color: red; /*Changes font colour to red*/
+    border: none;/*No border*/
+}
+
+#footer {
+    font: bold; /*Changes text to bold*/
+    font-size: 18px; /*Makes size biger*/
+    float: left; /*Moves everything to the left*/
+}

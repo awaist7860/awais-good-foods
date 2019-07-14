@@ -1,0 +1,124 @@
+﻿/*CSS file for the menu page*/
+body {
+    background-color: #ff6666; /*Changes background colour*/
+}
+
+/*#MenuLogo{
+    The name for the menu logo
+}*/
+
+/*The menu tag*/
+#Menu {
+    margin-left: 40%; /*Makes the margin on the left bigger*/
+    margin-top: -5%; /*Changes the margin on the top*/
+    font-style: italic;/*Mkates the font style italic*/
+    font: bold;/*mAKES THE TEXT BOLD*/
+    font-size: 55px;/*Makes the text sixe bigger*/
+}
+
+/*The menu items tag*/
+#menuItems {
+    float: left;/*Moves everything to the left*/
+}
+
+#Starters {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#MainsKebabs {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#MainPizza {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#MainBurger {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+
+/*#MainWraps {
+    float: left;
+    list-style-type: none;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 4%;
+}*/
+
+#MainCurrys {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#Sides {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkat/*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#Dessert {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+#Drinks {
+    float: left; /*Moves everything to the left*/
+    list-style-type: none; /*No style for list*/
+    font-style: italic; /*Mkates the font style italic*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 4%; /*Changes the margin on the top*/
+}
+
+.btnHome {
+    /*margin-left: -50%;*/
+    /*margin-top: 25%;*/
+    float: left; /*Moves everything to the left*/
+    background-color: transparent; /*Makes it transparrent*/
+    color: dodgerblue; /*Changes font colour to dogerblue*/
+    font: bold 27px arial, Calbri; /*Chnages the font and font size*/
+    border: solid; /*Solid border*/
+}
+
+.btnOrder {
+    float: left; /*Moves everything to the left*/
+    background-color: transparent; /*Makes it transparrent*/
+    color: red; /*Changes font colour to red*/
+    font: bold 27px arial, Calbri; /*Chnages the font and font size*/
+    border: solid; /*Solid border*/
+}
+
+
+
+#footer {
+    font: bold arial;/*Changes the font*/
+    font-size: 18px; /*Makes the text sixe bigger*/
+    margin-top: 30%; /*Changes the margin on the top*/
+    /*float: left;*/
+    /*margin-top: 30%;*/
+}
